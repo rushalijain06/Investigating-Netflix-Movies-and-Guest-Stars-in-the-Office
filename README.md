@@ -8,4 +8,4 @@ In this project, I have applied the skills I learned in Python to solve a real-w
 
 ![image](https://user-images.githubusercontent.com/52796809/227461057-7ed5688d-aa73-48c2-a5d1-b1060fa80580.png)
 
-View my solution [here!](https://github.com/rushalijain06/Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office/blob/main/notebook.ipynb)
+View my solutions [here!](https://github.com/rushalijain06/Investigating-Netflix-Movies-and-Guest-Stars-in-the-Office/blob/main/notebook.ipynb)
